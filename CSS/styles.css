@@ -1,0 +1,33 @@
+/*********************************** TAG SELECTIONS **********************/
+body {
+  background-color: #AEFEFF;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #072227;
+  border-width: 5px;
+  width: 5%;
+}
+h1,h3 {
+  color: #35858B;
+  font-family: arial;
+}
+
+a:hover {
+  color: #35858B;
+}
+
+/*********************************** CLASS SELECTIONS **********************/
+
+.profile {
+  border-radius: 25px;
+  width: 150px;
+}
+
+
+/*********************************** ID SELECTIONS **********************/
+
+#heading {
+  font-style: italic;
+}
